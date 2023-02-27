@@ -1,0 +1,29 @@
+ @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap"); 
+
+body {
+  margin: 0;
+  font-family: "Raleway", serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
+}
+.adklogo{
+  height: 76px;
+}
+.nav-name{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  letter-spacing: 5px;
+  color: #c770f0;
+}
+ .myimagecrop{
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  
+} 
+
+.home-about-container{
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(191, 85, 236) -2px 2px 16px 0px;
+  border-radius: 10px;
+  padding : 20px;
+}
+
