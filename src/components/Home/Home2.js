@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://whatsapp.com/dl/"
+                  href="https://wa.me/+916369512094"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
